@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestVagrant Assignment">
+
+    <listeners>
+        <listener class-name="ui.report.ExtentReport"></listener>
+        <listener class-name="ui.report.RetryListenerClass"></listener>
+    </listeners>
+
+    <test name="Weather check on Chrome" preserve-order="true">
+        <parameter name="browserType" value="Chrome" />
+        <classes>
+            <class name="ui.tests.MatchWeatherTest"/>
+        </classes>
+    </test>
+
+</suite>

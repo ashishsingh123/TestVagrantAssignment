@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84a086a8-e738-4f40-b210-2cd7fc006c94" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fkWZHvZqJBQD4RmAjRVojVTjFp" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/ashishs/IdeaProjects/TestVagrantAssignment/src/main/resources/testng/SuiteTestNG.xml">
+    <configuration name="C:/Users/ashishs/IdeaProjects/TestVagrantAssignment/src/main/resources/testng/SuiteTestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="assignment" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng/SuiteTestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatchWeatherTest.testWeatherReport (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui.tests" />
+      <option name="MAIN_CLASS_NAME" value="ui.tests.MatchWeatherTest" />
+      <option name="METHOD_NAME" value="testWeatherReport" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatchWeatherTest.testWeatherReport (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui.tests" />
+      <option name="MAIN_CLASS_NAME" value="ui.tests.MatchWeatherTest" />
+      <option name="METHOD_NAME" value="testWeatherReport" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatchWeatherTest.testWeatherReport (5)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui.tests" />
+      <option name="MAIN_CLASS_NAME" value="ui.tests.MatchWeatherTest" />
+      <option name="METHOD_NAME" value="testWeatherReport" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatchWeatherTest.testWeatherReport" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui.tests" />
+      <option name="MAIN_CLASS_NAME" value="ui.tests.MatchWeatherTest" />
+      <option name="METHOD_NAME" value="testWeatherReport" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.MatchWeatherTest.testWeatherReport" />
+      <item itemvalue="TestNG.MatchWeatherTest.testWeatherReport (4)" />
+      <item itemvalue="TestNG.MatchWeatherTest.testWeatherReport (5)" />
+      <item itemvalue="TestNG.MatchWeatherTest.testWeatherReport (1)" />
+      <item itemvalue="TestNG.C:/Users/ashishs/IdeaProjects/TestVagrantAssignment/src/main/resources/testng/SuiteTestNG.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/ashishs/IdeaProjects/TestVagrantAssignment/src/main/resources/testng/SuiteTestNG.xml" />
+        <item itemvalue="TestNG.MatchWeatherTest.testWeatherReport" />
+        <item itemvalue="TestNG.MatchWeatherTest.testWeatherReport (1)" />
+        <item itemvalue="TestNG.MatchWeatherTest.testWeatherReport (5)" />
+        <item itemvalue="TestNG.MatchWeatherTest.testWeatherReport (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84a086a8-e738-4f40-b210-2cd7fc006c94" name="Default Changelist" comment="" />
+      <created>1596762632243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596762632243</updated>
+    </task>
+    <servers />
+  </component>
+</project>
