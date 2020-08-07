@@ -11,5 +11,7 @@ Dependency Java Maven
 
 Steps to clone execute the tests
 git clone https://github.com/ashishsingh123/TestVagrantAssignment
+
 cd TestVagrantAssignment
+
 mvn clean test
